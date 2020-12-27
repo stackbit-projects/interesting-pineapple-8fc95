@@ -8,7 +8,7 @@ excerpt: >-
   health will recharge and how I benefit from it.
 date: '2019-03-24'
 thumb_img_path: images/4.jpg
-hide_header: true
+hide_header: false
 layout: post
 ---
 
